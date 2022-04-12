@@ -1,0 +1,23 @@
+a {
+	text-decoration: none;
+	color: white;
+}
+
+a:hover {
+	color: white;
+}
+
+h1 {
+	text-align: center;
+	text-decoration: underline;
+	font-family: Poppins;
+}
+
+.button {
+	position: relative;
+	left: 40px;
+}
+
+		.gradient  {
+			background-image: linear-gradient(to bottom right, #EEBD89, #D13ABD);
+		}
